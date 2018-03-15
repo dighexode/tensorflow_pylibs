@@ -1,5 +1,5 @@
 FROM baikangwang/tensorflow_cpu:emnist
-MAINTAINER Baker Wang <baikangwang@hotmail.com>
+MAINTAINER dighexode <dighexode@163.com>
 
 # referenced from <>
 
